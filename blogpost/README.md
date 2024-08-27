@@ -1,7 +1,8 @@
 ## Getting Started
-
+## link to the hosted app [https://blog-post-web.vercel.app/blogs](https://blog-post-web.vercel.app/blogs)
 # Description
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 - This is the final web assessment project, which is to  create a two-page application that showcases a list of blogs and provides detailed views of each blog
 
 
@@ -14,4 +15,4 @@ pnpm dev
 # or
 bun dev
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the res
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the resgit 
